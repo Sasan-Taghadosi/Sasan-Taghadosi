@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sasan-Taghadosi
+- 👀 I’m interested in Data analysis tools
+- 🌱 I’m currently learning Python, Tableau, and SQL
+- 💞️ I’m looking to collaborate on data analytics projects focused on finance
+- 📫 How to reach me : https://www.linkedin.com/in/sasan-taghadosi/
